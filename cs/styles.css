@@ -10,34 +10,34 @@
 }
 
 table, th, td {
-    border: 1px solid blue;
+    border: 1px solid red;
     padding: 10px;
 
     
   }
 
   .tab{
-    border: 7px solid blue;
+    border: 7px solid red;
     border-collapse: separate;
     
   }
 
   .cost{
-    background-color:black ;
+    background-color:cornflowerblue ;
     color: white;
     padding: 0px 8px;
     border: 2px solid grey;
 
   }
   .submitt{
-    background-color: black;
+    background-color: cornflowerblue;
     color: white;
     margin-top: 32px;
     border: 2px solid grey;
   }
 
   .clearr{
-    background-color: black;
+    background-color: cornflowerblue;
     color: white;
     border: 2px solid grey;
     margin-left: 8px;
